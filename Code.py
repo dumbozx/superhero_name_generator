@@ -1,0 +1,6 @@
+print("Welcome my friend!")
+print("What is your favourite fast food")
+food = input("Pizza, Burger or French fries \n")
+print("What is your gender")
+gender = input("Man or Woman \n")
+print("Your superhero name is\n" + food + " " +  gender)
